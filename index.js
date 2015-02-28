@@ -10,7 +10,7 @@ var ansiRegex = require('ansi-regex')();
 var topOffset = 3;
 var leftOffset = 17;
 var defaultGreeting =
-  '\n     _-----_' +
+  '\n     _sogou_' +
   '\n    |       |    ' +
   '\n    |' + chalk.red('--(o)--') + '|    ' +
   '\n   `---------´   ' +

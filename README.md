@@ -2,11 +2,6 @@
 
 > Tell Yeoman what to say
 
-Like [cowsay](http://en.wikipedia.org/wiki/Cowsay), but less cow.
-
-![](screenshot.png)
-
-
 ## Install
 
 ```sh
@@ -22,15 +17,16 @@ var yosay = require('yosay-sogou');
 console.log(yosay('Hello, and welcome to my fantastic generator full of whimsy and bubble gum!'));
 
 /*
-     _-----_
-    |       |    .--------------------------.
-    |--(o)--|    | Hello, and welcome to my |
-   `---------´   | fantastic generator full |
-    ( _´U`_ )    |   of whimsy and bubble   |
-    /___A___\    |           gum!           |
-     |  ~  |     '--------------------------'
-   __'.___.'__
- ´   `  |° ´ Y `
+
+    _sogou_
+   |       |    .--------------------------.
+   |--(o)--|    |   Welcome to the groovy  |
+  `---------´   |   Sogou generator!       |
+   ( _´U`_ )    '--------------------------'
+   /___A___\              
+    |  ~  |          
+  __'.___.'__
+´   `  |° ´ Y `
  */
 ```
 
@@ -54,7 +50,7 @@ $ yosay --help
   Example
     yosay 'Sindre is a horse'
 
-     _-----_
+     _sogou_
     |       |    .--------------------------.
     |--(o)--|    |     Sindre is a horse    |
    `---------´   '--------------------------'
@@ -69,4 +65,4 @@ $ yosay --help
 ## License
 
 [BSD license](http://opensource.org/licenses/bsd-license.php)
-Copyright (c) Google
+ 
