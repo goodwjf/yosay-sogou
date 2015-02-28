@@ -14,7 +14,7 @@ $ npm install --save yosay-sogou
 ```js
 var yosay = require('yosay-sogou');
 
-console.log(yosay('Hello, and welcome to the groovy Sogou generator!'));
+console.log(yosay('Welcome to the groovy Sogou generator!'));
 
 /*
 
