@@ -1,4 +1,4 @@
-# yosay [![Build Status](https://travis-ci.org/yeoman/yosay.svg?branch=master)](https://travis-ci.org/yeoman/yosay)
+# yosay-sogou
 
 > Tell Yeoman what to say
 
@@ -10,14 +10,14 @@ Like [cowsay](http://en.wikipedia.org/wiki/Cowsay), but less cow.
 ## Install
 
 ```sh
-$ npm install --save yosay
+$ npm install --save yosay-sogou
 ```
 
 
 ## Usage
 
 ```js
-var yosay = require('yosay');
+var yosay = require('yosay-sogou');
 
 console.log(yosay('Hello, and welcome to my fantastic generator full of whimsy and bubble gum!'));
 
@@ -40,7 +40,7 @@ console.log(yosay('Hello, and welcome to my fantastic generator full of whimsy a
 ## CLI
 
 ```
-$ npm install --global yosay
+$ npm install --global yosay-sogou
 ```
 
 ```
